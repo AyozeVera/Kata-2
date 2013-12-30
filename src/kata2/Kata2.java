@@ -1,4 +1,3 @@
-
 package kata2;
 
 public class Kata2{
@@ -6,5 +5,7 @@ public class Kata2{
     public static void main(String[] args) {
        MostFrecuentlyUsed Prueba1 = new MostFrecuentlyUsed (v);
        System.out.println(MostFrecuentlyNumber(Prueba1));
+       System.out.println("Me come el rabo o k ase");
+       
     }
 }
